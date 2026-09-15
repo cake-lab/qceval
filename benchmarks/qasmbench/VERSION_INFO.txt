@@ -1,0 +1,4 @@
+Source: https://github.com/pnnl/QASMBench.git
+Commit SHA: 357b942
+Downloaded on: Thu Aug 27 04:41:21 PM EDT 2026
+Directories: small, medium, large
